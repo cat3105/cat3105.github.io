@@ -1,0 +1,27 @@
+nav {
+	background-color: maroon;
+}
+
+	.navbar-brand.ron-title{
+		color: white;
+	}
+body{
+	background: url("../img/cat.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+.title-text{
+	width: 300px;
+	color: black;
+	font-size: 96px;
+	font-family: Times;
+	margin-top: 5%;
+	float: right;
+}
+.profile-pic{
+	max-width: 50%;
+	max-height: 60%;
+}
+.card{
+	margin-top: 50px;
+}
+

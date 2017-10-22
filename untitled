@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ladning Page - Ron Swanson</title>
+	<link rel="stylesheets" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+</head></head>
+<body>
+	<h1>TEST</h1>
+	<nav class="navbar navbar-dark">
+		<div class="container">
+				<a href="index.html">Ron Swanson</a>
+		</div>
+	</nav>
+</body>
+</html>
